@@ -1,0 +1,38 @@
+
+      tr:nth-child(even){
+        background-color: yellow;
+      }
+
+      tr:nth-child(odd){
+        background-color: pink;
+      }
+      
+      table{
+        width: 100%;
+        border-collapse: collapse; 
+      }
+
+      input[type="text"]{
+        background:black;
+        color:white;
+      }
+      input[type="number"]{
+        background:black;
+        color:white;
+      }
+      input[type="date"]{
+        background:black;
+        color:white;
+      }
+
+
+      input[type="submit"]{
+        background: red;
+      }
+
+      td:hover{
+        background-color:black;
+      }
+      tr:hover {background-color: blue;}
+
+      
